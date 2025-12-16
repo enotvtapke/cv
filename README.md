@@ -1,4 +1,6 @@
-I generate this cv using [rendercv](https://docs.rendercv.com).
+## CV
+
+This CV using [rendercv](https://docs.rendercv.com).
 
 To regenrate CV one should run `rendercv render "Aleksandr_Stupnikov_CV.yaml"` or `rendercv render --watch "Aleksandr_Stupnikov_CV.yaml"` to regenirate CV continuosly.
 
