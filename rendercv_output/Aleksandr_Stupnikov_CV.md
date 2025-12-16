@@ -14,15 +14,15 @@ Final year master's student in Computer Science with real software development e
 
 ## **Constructor University**, MS in #link("https://constructor.university/programs/graduate-education/advanced-software-technology")[Advanced Software Technology] -- Bremen, GermanySept 2024 – present
 
-- GPA 2.07 #link("https://github.com/enotvtapke/cv/constructor_transcript.pdf")[Transcipt]
+- GPA 2.07
 
-- Relevant coursework: Virtual Machines, Metacomputations, Advanced Functional Programming, Dependent Types, Category theory
+- Relevant coursework: Advanced Functional Programming, Dependent Types, Category theory, Metacomputations, Virtual Machines (ongoing)
 
 
 
 ## **ITMO University**, BS in #link("https://abit.itmo.ru/en/program/bachelor/programming")[Computer Science and Programming] -- St. Petersburg, RussiaSept 2020 – Aug 2024
 
-- GPA: 4.4\/5.0 #link("https://github.com/enotvtapke/cv/itmo_transcript.pdf")[Transcipt]
+- GPA: 4.4\/5.0
 
 - Relevant coursework: Algorithms and Data Structures, Java, Functional Programming, Compilers, Parsing Techniques, Computer Architecture, Parallel Programming
 

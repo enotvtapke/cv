@@ -17,7 +17,7 @@ cv:
         degree: MS
         start_date: 2024-09
         highlights:
-          - 'GPA 2.07 [Transcipt](https://github.com/enotvtapke/cv/constructor_transcript.pdf)'
+          - 'GPA 2.07 [Transcipt](https://github.com/enotvtapke/cv/blob/master/constructor_transcript.pdf)'
           - 'Relevant coursework: Virtual Machines, Metacomputations, Advanced Functional Programming, Dependent Types, Category theory'
       - institution: 'ITMO University'
         location: St. Petersburg, Russia
@@ -26,7 +26,7 @@ cv:
         start_date: 2020-09
         end_date: 2024-08
         highlights:
-          - 'GPA: 4.4/5.0 [Transcipt](https://github.com/enotvtapke/cv/itmo_transcript.pdf)'
+          - 'GPA: 4.4/5.0 [Transcipt](https://github.com/enotvtapke/cv/blob/master/itmo_transcript.pdf)'
           - 'Relevant coursework: Algorithms and Data Structures, Java, Functional Programming, Compilers, Parsing Techniques, Computer Architecture, Parallel Programming'
     skills:
       - label: Languages

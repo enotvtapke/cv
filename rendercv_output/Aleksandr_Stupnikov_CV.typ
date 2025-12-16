@@ -109,9 +109,9 @@ Final year master's student in Computer Science with real software development e
     
   ],
   main-column-second-row: [
-    - GPA 2.07 #link("https://github.com/enotvtapke/cv/constructor_transcript.pdf")[Transcipt]
+    - GPA 2.07
     
-    - Relevant coursework: Virtual Machines, Metacomputations, Advanced Functional Programming, Dependent Types, Category theory
+    - Relevant coursework: Advanced Functional Programming, Dependent Types, Category theory, Metacomputations, Virtual Machines (ongoing)
     
   ],
 )
@@ -126,7 +126,7 @@ Final year master's student in Computer Science with real software development e
     
   ],
   main-column-second-row: [
-    - GPA: 4.4\/5.0 #link("https://github.com/enotvtapke/cv/itmo_transcript.pdf")[Transcipt]
+    - GPA: 4.4\/5.0
     
     - Relevant coursework: Algorithms and Data Structures, Java, Functional Programming, Compilers, Parsing Techniques, Computer Architecture, Parallel Programming
     
