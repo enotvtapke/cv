@@ -1,0 +1,81 @@
+cv:
+  name: Aleksandr Stupnikov
+  location: Bremen, Germany
+  email: a.stupnikov05@gmail.com
+  social_networks:
+    - network: LinkedIn
+      username: a-stupnikov
+    - network: GitHub
+      username: enotvtapke
+  sections:
+    _:
+      - "Final year master's student in Computer Science with real software development experience in Kotlin and a passion for research. I specialize in the area of compilers and programming languages."
+    education:
+      - institution: 'Constructor University'
+        location: Bremen, Germany
+        area: '[Advanced Software Technology](https://constructor.university/programs/graduate-education/advanced-software-technology)'
+        degree: MS
+        start_date: 2024-09
+        highlights:
+          - 'GPA 2.07'
+          - 'Relevant coursework: Advanced Functional Programming, Dependent Types, Category theory, Metacomputations, Virtual Machines (ongoing)'
+      - institution: 'ITMO University'
+        location: St. Petersburg, Russia
+        area: '[Computer Science and Programming](https://abit.itmo.ru/en/program/bachelor/programming)'
+        degree: BS
+        start_date: 2020-09
+        end_date: 2024-08
+        highlights:
+          - 'GPA: 4.4/5.0'
+          - 'Relevant coursework: Algorithms and Data Structures, Java, Functional Programming, Compilers, Parsing Techniques, Computer Architecture, Parallel Programming'
+    skills:
+      - label: Languages
+        details: Kotlin, Java, Haskell, SQL, C
+      - label: Technologies
+        details: JUnit, Ktor, ANTLR, PostreSQL, Git, Docker, Gradle, Bash, IntelliJ IDEA, VSCode
+    experience:
+      - company: '[JetBrains](https://www.jetbrains.com)'
+        position: Intern
+        location: Remote, Germany
+        start_date: 2025-04
+        end_date: 2026-02
+        highlights:
+          - Developed Kotlin library and compiler plugin for remote procedures calls that supports arbitrary functions and classes
+          - 'Link: [https://github.com/enotvtapke/kotlin-remote](https://github.com/enotvtapke/kotlin-remote)'
+          - 'Technologies: Kotlin Multiplatform, Kotlin compiler plugins, Kotlin serialization' 
+      - company: '[Liptsoft](https://www.lipt-soft.ru)'
+        position: Software Engineer
+        location: Saint Petersburg, Russia
+        start_date: 2022-07
+        end_date: 2024-08
+        highlights:
+          - Developed and integrated microservice for currency exchange operations into 
+            existing infrastructure using Kotlin, Ktor and PostgreSQL
+            which increased the development speed of currency exchange related features
+          - Implemented new custom payment scenario for an internet bank which replaced a number of old scenarios and improved UX
+          - 'Technologies: Kotlin, Ktor, Junit, Gradle' 
+    projects:
+      - name: Self-applicable Flowchart partial evaluator
+        date: 2025
+        highlights:
+          - Self-applicable partial evaluator to generate compiler generator using third Futamura projection.
+          - 'Link: [github.com/enotvtapke/partial-evaluator](https://github.com/enotvtapke/partial-evaluator)'
+          - 'Technologies: Haskell, Control-flow analysis'
+      - name: Higher order parser combinators for left-recursive grammars
+        date: 2024
+        highlights:
+          - Haskell parser combinator library that makes use of CPS and memoization to achieve unique properties.
+            A part of my undergraduate thesis.
+          - 'Link: [github.com/enotvtapke/memoized_cps_parser](https://github.com/enotvtapke/memoized_cps_parser)'
+          - 'Technologies: Haskell, Syntax analysis'
+design:
+  theme: engineeringresumes
+  templates:
+    top_note: ''
+settings:
+  render_command:
+    dont_generate_markdown: false
+    dont_generate_html: true
+    dont_generate_typst: false
+    dont_generate_pdf: false
+    dont_generate_png: true
