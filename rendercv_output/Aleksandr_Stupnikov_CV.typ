@@ -78,7 +78,7 @@
   date: datetime(
     year: 2025,
     month: 12,
-    day: 16,
+    day: 19,
   ),
 )
 
@@ -151,7 +151,7 @@ Final year master's student in Computer Science with real software development e
     
   ],
   main-column-second-row: [
-    - Developed Kotlin library and compiler plugin for remote procedures calls that supports arbitrary functions and classes
+    - Developed Kotlin library and compiler plugin for RPC which uses coeffects to make remote calls implicitly
     
     - Link: #link("https://github.com/enotvtapke/kotlin-remote")[https:\/\/github.com\/enotvtapke\/kotlin-remote]
     

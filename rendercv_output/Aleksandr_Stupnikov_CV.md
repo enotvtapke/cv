@@ -40,7 +40,7 @@ Final year master's student in Computer Science with real software development e
 
 Apr 2025 – Feb 2026
 
-- Developed Kotlin library and compiler plugin for remote procedures calls that supports arbitrary functions and classes
+- Developed Kotlin library and compiler plugin for RPC which uses coeffects to make remote calls implicitly
 
 - Link: #link("https://github.com/enotvtapke/kotlin-remote")[https:\/\/github.com\/enotvtapke\/kotlin-remote]
 

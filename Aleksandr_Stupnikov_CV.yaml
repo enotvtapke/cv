@@ -40,7 +40,7 @@ cv:
         start_date: 2025-04
         end_date: 2026-02
         highlights:
-          - Developed Kotlin library and compiler plugin for remote procedures calls that supports arbitrary functions and classes
+          - Developed Kotlin library and compiler plugin for RPC which uses coeffects to make remote calls implicitly
           - 'Link: [https://github.com/enotvtapke/kotlin-remote](https://github.com/enotvtapke/kotlin-remote)'
           - 'Technologies: Kotlin Multiplatform, Kotlin compiler plugins, Kotlin serialization' 
       - company: '[Liptsoft](https://www.lipt-soft.ru)'
